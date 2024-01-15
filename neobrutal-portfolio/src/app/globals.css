@@ -7,7 +7,7 @@
     @apply shadow-[8px_8px_0px_rgba(0,0,0,1)]
   }
   .card {
-    @apply border-black border-2 rounded-md bg-white
+    @apply  border-2 rounded-md
   }
 
   

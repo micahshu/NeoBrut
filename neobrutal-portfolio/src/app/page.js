@@ -1,9 +1,12 @@
 import Image from 'next/image'
+import NavBar from './components/NavBar'
+import Calender from './components/Calender'
 
 export default function Home() {
   return (
-    <div className='flex justify-center items-center  h-screen'>
-      <div className='w-40 h-40 bg-purple-600 brutShadow card'></div>
+    <div className=''>
+      
+      <Calender />
     </div>
   )
 }
